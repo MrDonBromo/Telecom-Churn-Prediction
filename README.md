@@ -1,7 +1,7 @@
 # TripleTenDS-Final-Project
 
 ## Project Overview
-This project is part of the TripleTen Data Science Bootcamp. The goal is to predict customer churn for Interconnect, a telecommunications company, using various machine learning algorithms.
+The goal of this project is to develop a machine learning model that predicts customer churn for Interconnect, a telecommunications company, using various machine learning algorithms.
 
 ## Data
 We were provided with four CSV files containing:
