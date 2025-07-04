@@ -1,4 +1,4 @@
-# TripleTenDS-Final-Project
+# Telecom Churn Prediction Model
 
 ## Project Overview
 The goal of this project is to develop a machine learning model that predicts customer churn for Interconnect, a telecommunications company, using various machine learning algorithms.
